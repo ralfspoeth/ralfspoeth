@@ -22,7 +22,7 @@ Small, focused libraries for everyday Java work.
 - **[filews](https://github.com/ralfspoeth/filews)**: a small callback-based wrapper around the JDK 
     `WatchService`, running on virtual threads.
 
-## Why Every Library Ships a `module-info.java`
+## Every Library Ships a `module-info.java`
 
 Being a kind citizen, mostly. Writing a `module-info.java` costs the author
 something (the test path gets awkward, split packages are out, reflection needs
