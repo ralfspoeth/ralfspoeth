@@ -8,6 +8,7 @@ I keep logic close to the data. I'd rather have a well-designed schema and a few
 
 - **[greyson](https://github.com/ralfspoeth/greyson)**: a small JSON IO library for modern Java, with immutable values, records and sealed types.
 - **[xldr](https://github.com/ralfspoeth/xldr)**: an _e**x**tensible **l**oa**d**e**r**_ that maps files into relational tables.
+- **[log-weaver](https://github.com/ralfspoeth/log-weaver)**: a bytecode weaver that turns `@Log` annotations into lazy `System.Logger` calls, at build time via a Maven plugin or at load time via a Java agent. No `isLoggable` boilerplate and no third-party logging facade.
 
 ## Small Libraries
 
