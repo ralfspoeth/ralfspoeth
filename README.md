@@ -2,8 +2,6 @@
 
 Software for the JVM, mostly Java with some Clojure on the side.
 
-I keep logic close to the data. I'd rather have a well-designed schema and a few procedures than a thick ORM layer.
-
 ## Active Projects
 
 - **[greyson](https://github.com/ralfspoeth/greyson)**: a small JSON IO library for modern Java, with immutable values, records and sealed types.
